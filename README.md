@@ -1,16 +1,17 @@
-## Hi there 👋
+# Vikram Kumar
 
-<!--
-**vikramkumar402/vikramkumar402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Vikram, a Computer Science student at the National Institute of Technology, Patna. I specialize in web development and am passionate about leveraging advanced technologies to solve complex problems and create intuitive user experiences.
 
-Here are some ideas to get you started:
+## Quick Facts
+- 📚 Pursuing a B.Tech in Computer Science at NIT Patna.
+- 🌐 Proficient in web technologies including HTML, CSS, JavaScript, React.js, Node.js, and Express.
+- 🤖 Deeply interested in speech recognition and machine learning applications.
+- 🔨 Actively working on projects like a personal portfolio website and "StayHere," a platform redefining the house rental experience.
+- 🎯 Also involved in the DRDO-DYSL Speech Recognition project, utilizing Wav2Vec2 for accurate transcription of audio content using the LibriSpeech dataset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 📧 Email: [vikramk.ug22.cs@nitp.ac.in](mailto:vikramk.ug22.cs@nitp.ac.in)
+- 🌍 GitHub: [vikramkumar402](https://github.com/vikramkumar402)
+- 🔗 LinkedIn: [linkedin.com/in/vikramkumar2510/](https://www.linkedin.com/in/vikramkumar2510/)
+
+Feel free to explore my projects and reach out if you have any queries or opportunities!
